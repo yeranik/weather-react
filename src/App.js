@@ -24,11 +24,11 @@ export default function App() {
                 28
               </div>
               <span class="units">
-                <a href="#" id="celsius-Link" class="active">
+                <a href="#/" id="celsius-Link" class="active">
                   C°
                 </a>
                 |
-                <a href="#" id="farenheit-link">
+                <a href="#/" id="farenheit-link">
                   F°
                 </a>
               </span>
