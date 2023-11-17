@@ -81,20 +81,11 @@ export default function App() {
           and is
           <a
             class="GithubLink"
-            href="https://github.com/yeranik/vw-app"
+            href="https://github.com/yeranik/weather-react"
             target="_blank"
             rel="noopener noreferrer"
           >
             Open-source code on Github
-          </a>
-          and
-          <a
-            class="netlify"
-            href="https://precious-dragon-ab7660.netlify.app/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            hosted on Netlify
           </a>
         </small>
       </div>
