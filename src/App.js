@@ -74,6 +74,7 @@ export default function App() {
             class="Instagram"
             href="https://www.instagram.com/yerani_k/?hl=es-la"
             target="_blank"
+            rel="noopener noreferrer"
           >
             Yerani Kingston
           </a>
@@ -82,6 +83,7 @@ export default function App() {
             class="GithubLink"
             href="https://github.com/yeranik/vw-app"
             target="_blank"
+            rel="noopener noreferrer"
           >
             Open-source code on Github
           </a>
@@ -90,6 +92,7 @@ export default function App() {
             class="netlify"
             href="https://precious-dragon-ab7660.netlify.app/"
             target="_blank"
+            rel="noopener noreferrer"
           >
             hosted on Netlify
           </a>
